@@ -1,0 +1,45 @@
+libraries installed
+pip install speechrecognition pyaudio
+pip install setuptools
+pip install pyaudio
+pip install requests
+pip install pyttsx3
+pip install gtts
+pip intsll pygame
+
+LIBRARIES IMPORTED:-
+1 import speech_recognition as sr:-
+   Converts spoken words to text using speech recognition APIs.
+   Create voice-activated assistants or hands-free applications.
+2 import webbrowser:-
+   Opens URLs in the default web browser.
+   Automate opening web pages or launching web-based applications.  
+3 import pyttsx3:-
+   Text-to-speech conversion.
+   Build applications that require voice output, like AI assistants.
+4 import musiclibrary:-
+   To handle audio or music file management.
+   Organize, play, or search for music files in a local or online library.
+5 import requests:-
+   Simplifies making HTTP requests (GET, POST, etc.)
+   Fetch APIs, scrape websites, or automate web interactions.
+6 from openai import OpenAI:- 
+   Interact with OpenAI's API for GPT, DALL·E, and other models.
+   Generate text, images, or AI-powered functionalities.
+7 gTTS (Google Text-to-Speech):-
+   Converts text to speech using Google's Text-to-Speech engine.
+   Create audio output for chatbots or announcement systems.
+8 pygame:-
+   Used for creating games and handling multimedia tasks (audio, graphics).
+   Play sounds, create 2D games, or manage user input in interactive applications.
+9 os:-
+   Provides functions to interact with the operating system (file management, environment variables).
+   Manipulate file paths, run system commands, or navigate directories.
+
+API KEYS used
+1. News API Key (newsapi)
+   Service: NewsAPI
+   Purpose: Fetches the latest top headlines from various news sources.
+2  AI API Key (api_key)
+   Service: Hypothetically an AI model from AIML API
+   Purpose: Used for chatbot-like functionality where FRIDAY processes user commands with AI assistance.
